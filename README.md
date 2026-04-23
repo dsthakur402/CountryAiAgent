@@ -157,7 +157,7 @@ The agent can retrieve and discuss:
 
 ## 🌐 Live Demo
 
-**🔗 [Try the live demo here](YOUR_DEPLOYMENT_URL)**
+**🔗 [Try the live demo here](https://cloudeagle-countryaiagent.streamlit.app/)**
 
 *Hosted on Streamlit Community Cloud with automatic deployments from main branch*
 
@@ -259,7 +259,7 @@ CountryAiAgent/
 
 ## 📹 Video Walkthrough
 
-*[Link to video walkthrough covering architecture, examples, and production considerations]*
+*[[Link to video](https://drive.google.com/file/d/1Co0J5Hh2r9pmTA2A8gTeJACOWS913cBO/view?usp=sharing)]*
 
 ## 📄 License
 
